@@ -1,5 +1,5 @@
 # Credit-Union-Scrape
-Based on a job request on UpWork, I scrape data on credit unions. 
+Based on a job request posted on the freelance website, UpWork, I create a python script that scrapes data from a website that stores data on all credit unions in the United States. 
 
 <b>The job description was:</b>
 
